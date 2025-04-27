@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://omariomar2003.github.io/pc-catalogue/pc-catalogue.xsl"?>
+<catalogue>
+    <piece>
+        <nom>Processeur Intel Core i9</nom>
+        <categorie>Processeur</categorie>
+        <prix>549.99</prix>
+        <disponibilite>En stock</disponibilite>
+    </piece>
+    <piece>
+        <nom>Carte graphique NVIDIA RTX 4090</nom>
+        <categorie>Carte Graphique</categorie>
+        <prix>1599.99</prix>
+        <disponibilite>En stock</disponibilite>
+    </piece>
+    <piece>
+        <nom>Carte mère ASUS ROG Strix Z790</nom>
+        <categorie>Carte Mère</categorie>
+        <prix>349.99</prix>
+        <disponibilite>En stock</disponibilite>
+    </piece>
+    <piece>
+        <nom>Barrette RAM Corsair 32Go DDR5</nom>
+        <categorie>Mémoire Vive</categorie>
+        <prix>169.99</prix>
+        <disponibilite>En stock</disponibilite>
+    </piece>
+    <piece>
+        <nom>Disque SSD Samsung 2To NVMe</nom>
+        <categorie>Stockage</categorie>
+        <prix>199.99</prix>
+        <disponibilite>En stock</disponibilite>
+    </piece>
+    <piece>
+        <nom>Boîtier PC NZXT H510</nom>
+        <categorie>Boîtier</categorie>
+        <prix>99.99</prix>
+        <disponibilite>En stock</disponibilite>
+    </piece>
+    <piece>
+        <nom>Alimentation Corsair 750W 80+ Gold</nom>
+        <categorie>Alimentation</categorie>
+        <prix>129.99</prix>
+        <disponibilite>En stock</disponibilite>
+    </piece>
+    <piece>
+        <nom>Ventilateur Noctua NH-D15</nom>
+        <categorie>Refroidissement</categorie>
+        <prix>89.99</prix>
+        <disponibilite>En stock</disponibilite>
+    </piece>
+    <piece>
+        <nom>Carte son externe Focusrite Scarlett 2i2</nom>
+        <categorie>Carte Son</categorie>
+        <prix>159.99</prix>
+        <disponibilite>En stock</disponibilite>
+    </piece>
+    <piece>
+        <nom>Écran Dell 27&quot; 4K UltraSharp</nom>
+        <categorie>Écran</categorie>
+        <prix>499.99</prix>
+        <disponibilite>En stock</disponibilite>
+    </piece>
+</catalogue>
